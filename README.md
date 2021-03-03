@@ -14,7 +14,7 @@
 This is a travel review website for natural public spaces built with Django and PostgreSQL
 
 ## Screenshots
-![Example screenshot](./wayfarer.png)
+![Example screenshot](./project1.png)
 
 ## Technologies
 - Django
